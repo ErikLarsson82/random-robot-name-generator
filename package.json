@@ -1,0 +1,15 @@
+{
+  "name": "random-robot-name-generator",
+  "version": "0.1.0",
+  "description": "Generate random robot names from a preset of component lists",
+  "main": "random-robot-name-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ErikLarsson82/random-robot-name-generator.git"
+  },
+  "author": "Erik Larsson",
+  "license": "ISC"
+}
